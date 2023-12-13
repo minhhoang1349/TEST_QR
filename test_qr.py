@@ -3,6 +3,8 @@ import tkinter as tk
 import requests
 import urllib.request
 
+
+#so tien can thanh toan
 cost=str(input("cost= "))
 
 head_url="https://img.vietqr.io/image/ocb-0004100038288007-HgRYJqu.png?amount="
